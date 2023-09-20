@@ -33,3 +33,8 @@ L'esercizio è diviso in 3 parti simili, una per ognuno dei 3 set di misure. Ogn
 - stampa su schermo del valore della deviazione standard dei residui
 
 Le deviazioni standard dei residui per i tre set di dati sono circa uguali a 1.
+
+<br>
+<br>
+
+Si inseriscono anche i plot delle matrici delle covarianze teoriche, misurate e dei residui per il primo set di dati.
