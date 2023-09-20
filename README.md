@@ -1,7 +1,6 @@
 # Abilità informatiche e telematiche
 Si divide l'esercizio finale di Abilità informatiche e telematiche in 3 file:
 
-<br>
 
 * ***copia_file.sh***
 
