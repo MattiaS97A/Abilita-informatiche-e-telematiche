@@ -1,7 +1,7 @@
 # Abilità informatiche e telematiche
 Si divide l'esercizio finale di Abilità informatiche e telematiche in 3 file:
 
-copia_file.sh
+**copia_file.sh**
 
 Script che copia i file contenuti in una directory di origine all'interno di una directory di destinazione. I percorsi delle due directory sono specificati all'interno dello script.
 Lo script si può rendere eseguibile attraverso il comando "chmod +x copia_file.sh", e poi lo si può eseguire usando "./copia_file.sh".
