@@ -14,7 +14,7 @@ Ad esempio, nello script qui presente i tre set di dati contenuti nella cartella
 
 Esercizio di prova per il singolo multipolo 0 del primo set di dati.
 Questo codice è diviso nelle seguenti sezioni:
-- caricamento dei dati del singolo multipolo 0 del primo set di dati
+- caricamento dei dati del singolo multipolo 0 del primo set di dati (è possibile modificare il percorso della cartella da cui avviene la lettura dei dati all'interno del file)
 - calcolo della covarianza teorica e plot della matrice delle covarianze teoriche 
 - calcolo della covarianza misurata e plot della matrice delle covarianze misurate
 - calcolo della matrice di correlazione e dei residui, e plot della matrice dei residui.
@@ -26,7 +26,7 @@ Questo codice è diviso nelle seguenti sezioni:
 
 Lo stesso procedimento fatto per il singolo multipolo viene esteso ai tre multipoli 0,2,4 e ai tre set di dati.
 L'esercizio è diviso in 3 parti simili, una per ognuno dei 3 set di misure. Ogni parte è divisa nelle seguenti sezioni:
-- lettura dei multipoli 0,2,4
+- lettura dei multipoli 0,2,4 (è possibile modificare il percorso della cartella da cui avviene la lettura dei dati all'interno del file)
 - calcolo della covarianza teorica e plot della matrice delle covarianze teoriche per i tre multipoli
 - calcolo della covarianza misurata e plot della matrice delle covarianze misurate per i tre multipoli
 - calcolo dei residui e plot della matrice dei residui per i tre multipoli
