@@ -1,5 +1,5 @@
 # Abilità informatiche e telematiche
-Codici per l'esercizio finale di Abilità informatiche e telematiche:
+Si divide l'esercizio finale di Abilità informatiche e telematiche in 3 file:
 
 copia_file.sh
 
